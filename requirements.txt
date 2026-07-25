@@ -1,0 +1,11 @@
+# FPS Mechanics Lab - Gereksinimler
+pymem==1.11.0
+numpy==1.26.4
+numba==0.59.0
+PyQt5==5.15.9
+PyQt5-sip==12.13.0
+pygame==2.5.2
+opencv-python==4.9.0.80
+psutil==5.9.8
+requests==2.31.0
+colorama==0.4.6
